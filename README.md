@@ -1,3 +1,6 @@
+2nd time around.  First time demo'd with teacher, 2nd time alone.  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
